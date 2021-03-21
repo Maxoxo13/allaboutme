@@ -1,0 +1,45 @@
+body{
+	
+	background-image:url("https://img.cloudygif.com/medium/1af2a6d57aeacc92.gif");
+	background-size:cover;
+	background-position:center;
+	margin:35px;
+	text-align:center;
+	
+}
+
+h1{
+	background-color:#46f27d;
+	color:green;
+	font-size:80px;
+	border-style:outset;
+	border-color:white;
+	border-radius:80px;
+	padding:10px;
+	margin:25px;
+	font-family:Comic Sans MS;
+}
+h2{
+	background-color:#Blue;
+	color:green;
+	font-size:40px;
+	border-style:outset;
+	border-color:white;
+	border-radius:80px;
+	padding:10px;
+	margin:25px;
+	font-family:Comic Sans MS;	
+}
+
+p{
+background-color:#b6faf4;
+	color:#blue;
+	font-size:30px;
+	border-style:outset;
+	border-color:white;
+	border-radius:80px;
+	padding:10px;
+	margin:25px;
+	font-family:Comic Sans MS;	
+	
+}
