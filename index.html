@@ -61,11 +61,19 @@ What is yours? <input type="text" placeholder="Type here"/><br><br>
 <form>
 <p> Add the hex code here </p><br>
 <input type="text" id="hexcode" placeholder="#eb4034">
-<button type="button" onclick="changeBC"> Change Background </button>
+<button type="button" onclick="changeBC()"> Change Background </button>
 </form>
 
 </div>
 
+
+<script>
+function changeBC(){
+
+var backgroundColor = document.getElementById("hexcode").value;
+document.body.style.backgroundColor = backgroundColor;
+}
+</script>
 
 
 
