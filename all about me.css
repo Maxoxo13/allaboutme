@@ -43,3 +43,20 @@ background-color:#b6faf4;
 	font-family:Comic Sans MS;	
 	
 }
+.changeColorBG button{
+	
+	background-color:red;
+	color:white;
+	border-radius:80px;
+	border-width:4px;
+	border-style:outset;
+	border-color:white;
+	margin:10px;
+	padding:5px;
+	font-size:30px;
+	
+}
+.changeColorBG button:hover{
+	background-color:blue;
+	color:white;
+}
